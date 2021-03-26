@@ -15,9 +15,9 @@
 
 # 学习文章  
 [JPA概念](https://segmentfault.com/a/1190000022465115)  
-[Java —— EJB 到底是什么](https://blog.csdn.net/qq_19865749/article/details/75648083)
+[Java —— EJB 到底是什么](https://blog.csdn.net/qq_19865749/article/details/75648083)  
 [RMI的一个例子](https://www.liaoxuefeng.com/wiki/1252599548343744/1323711850348577)  
-[JTA规范](http://www.tianshouzhi.com/api/tutorials/distributed_transaction/385)
+[JTA规范](http://www.tianshouzhi.com/api/tutorials/distributed_transaction/385)  
 [jboss+JSF+EJB+JPA的小例子](https://blog.csdn.net/frightingforambition/article/details/48781983)  
 [轻松理解 Java开发中的依赖注入(DI)和控制反转(IOC)](https://www.jianshu.com/p/506dcd94d4f9)  
 **JSF与Strusts2区别**:(超星慕课-JSF概述)  
