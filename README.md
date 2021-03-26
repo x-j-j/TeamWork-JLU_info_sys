@@ -1,9 +1,7 @@
+# JAVA EE技术  
 jsp  
 javabean  
 servlet  
-
-
-JAVA EE技术  
 JNDI : 使用配置文件配置数据库方便使用的规范  
 JPA : 用来定义和数据库交互的类的规范 - Hibernate框架 - SpringData jpa(springboot模块)  
 JMS : 用来异步通信的规范(适用于c/s架构)   
@@ -15,8 +13,7 @@ JPA :
 Web Service:  
 JAvaMail:  
 
-
-引用  
+## 引用  
 [JPA概念](https://segmentfault.com/a/1190000022465115)  
 [RMI的一个例子](https://www.liaoxuefeng.com/wiki/1252599548343744/1323711850348577)  
 JSF与Strusts2区别:(超星慕课-JSF概述)  
@@ -26,7 +23,7 @@ Strusts2非JAVAEE标准，适合做非复杂业务的敏捷Web框架，开发前
 
 
 
-分层和架构  
+# 分层和架构  
 [DAO层，Service层，Controller层、View层](https://blog.csdn.net/zdwzzu2006/article/details/6053006)  
 [Dao层是什么](https://www.jianshu.com/p/8c3789d56d95)  
 [优秀的代码都是如何分层的？](https://cloud.tencent.com/developer/article/1480978)  
@@ -35,7 +32,7 @@ Strusts2非JAVAEE标准，适合做非复杂业务的敏捷Web框架，开发前
 
 
 
-高阶  
+# 高阶  
 SSH框架：SpringMVC  Struts2  Hibernate  
 [自学javaweb+框架的时间](https://zhidao.baidu.com/question/447270880?bd_page_type=0&pu=&init=middle)  
 有java基础最多2个月：先把基础打牢吧，冲一下可以学，不想冲就不学。  
