@@ -7,19 +7,21 @@
 **JMS** : 用来异步通信的规范(适用于c/s架构)   
 **EJB** : java的一个框架  
 **JSF** : javaweb前端的一个框架，用来开发界面，比如在web界面添加表格组件来替代html中的`<table>`代码。  
-**RMI** : (remote method invacation 远程方法调用)一个JVM中的代码可以通过网络实现远程调用另一个JVM的某个方法   
-**JTA** :  
-**JPA** :  
-**Web** Service:  
-**JAvaMail** :  
+**RMI** : (remote method invacation /远程方法调用/)一个JVM中的代码可以通过网络实现远程调用另一个JVM的某个方法   
+**JTA** : (Java Transaction API /java事务接口/)   
+**JTS** : (Java Transaction Service /java事务服务/)  
+**Web Service**:  不限制于语言，使用xml和http,soap协议等向全世界发布或接收,功能或消息(例如天气预报)  
+**JAvaMail** : 使用Java应用程序发送 E-mail   
 
-## 引用  
+# 学习文章  
 [JPA概念](https://segmentfault.com/a/1190000022465115)  
 [RMI的一个例子](https://www.liaoxuefeng.com/wiki/1252599548343744/1323711850348577)  
-[jboss+JSF+EJB+JPA的小例子](https://blog.csdn.net/frightingforambition/article/details/48781983)
+[JTA规范](http://www.tianshouzhi.com/api/tutorials/distributed_transaction/385)
+[jboss+JSF+EJB+JPA的小例子](https://blog.csdn.net/frightingforambition/article/details/48781983)  
+[轻松理解 Java开发中的依赖注入(DI)和控制反转(IOC)](https://www.jianshu.com/p/506dcd94d4f9)
 **JSF与Strusts2区别**:(超星慕课-JSF概述)  
-JSF和EJB，Web Service等javaEE紧密结合。  
-Strusts2非JAVAEE标准，适合做非复杂业务的敏捷Web框架，开发前端界面  
+> JSF和EJB，Web Service等javaEE紧密结合。  
+> Strusts2非JAVAEE标准，适合做非复杂业务的敏捷Web框架，开发前端界面  
 
 
 
@@ -39,6 +41,7 @@ Strusts2非JAVAEE标准，适合做非复杂业务的敏捷Web框架，开发前
 有java基础最多2个月：先把基础打牢吧，冲一下可以学，不想冲就不学。  
 
 [Java三大框架SSH简介](https://blog.csdn.net/BaiCangZhiDian/article/details/80885097?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.control)  
+[SSH和JSF+EJB+JPA的比较](https://blog.csdn.net/sunbirdhan/article/details/44114105?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.control&dist_request_id=&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.control)
 [Spring-Spring、SpringMVC与SpringBoot三者的关系](https://www.jianshu.com/p/447a2de60ffc)  
 [Spring,SpringMVC教程](https://www.w3cschool.cn/wkspring/dcu91icn.html)  
 [Springboot教程](https://www.yiibai.com/spring-boot/)  
