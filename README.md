@@ -18,7 +18,7 @@
 [RMI的一个例子](https://www.liaoxuefeng.com/wiki/1252599548343744/1323711850348577)  
 [JTA规范](http://www.tianshouzhi.com/api/tutorials/distributed_transaction/385)
 [jboss+JSF+EJB+JPA的小例子](https://blog.csdn.net/frightingforambition/article/details/48781983)  
-[轻松理解 Java开发中的依赖注入(DI)和控制反转(IOC)](https://www.jianshu.com/p/506dcd94d4f9)
+[轻松理解 Java开发中的依赖注入(DI)和控制反转(IOC)](https://www.jianshu.com/p/506dcd94d4f9)  
 **JSF与Strusts2区别**:(超星慕课-JSF概述)  
 > JSF和EJB，Web Service等javaEE紧密结合。  
 > Strusts2非JAVAEE标准，适合做非复杂业务的敏捷Web框架，开发前端界面  
