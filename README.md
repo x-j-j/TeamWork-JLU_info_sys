@@ -6,7 +6,7 @@
 **JPA** : 用来定义和数据库交互的类的规范 - Hibernate框架 - SpringData jpa(springboot模块)  
 **JMS** : 用来异步通信的规范(适用于c/s架构)   
 **EJB** : 将一些"类"放到A服务器上，B服务器对A服务器上的"类"进行远程调用和实现而不考虑网络方面的技术(用于大型企业分布式计算)。 
-**JSF** : javaweb前端的一个框架，用来开发界面，比如在web界面添加表格组件来替代html中的`<table>`代码。  
+**JSF** : javaweb前端的一个框架，用来开发界面，比如在web界面添加表格组件来替代html中的`<table>`代码    
 **RMI** : (remote method invacation /远程方法调用/)一个JVM中的代码可以通过网络实现远程调用另一个JVM的某个方法   
 **JTA** : (Java Transaction API /java事务接口/)   
 **JTS** : (Java Transaction Service /java事务服务/)  
