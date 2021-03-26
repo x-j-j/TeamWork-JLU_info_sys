@@ -24,7 +24,8 @@
 > JSF和EJB，Web Service等javaEE紧密结合。  
 > Strusts2非JAVAEE标准，适合做非复杂业务的敏捷Web框架，开发前端界面  
 
-# 教程
+# 教程/手册
+[JAVA入门](https://www.w3cschool.cn/java/java-tutorial.html)
 [JPA](https://www.w3cschool.cn/java/jpa-entitymanager.html)  
 [JSF](https://www.w3cschool.cn/java/jsf-basic-tags.html)  
 
