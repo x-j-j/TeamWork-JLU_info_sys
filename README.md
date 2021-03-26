@@ -6,7 +6,7 @@
 **JPA** : 用来定义和数据库交互的类的规范 - Hibernate框架 - SpringData jpa(springboot模块)  
 **JMS** : 用来异步通信的规范(适用于c/s架构)   
 **EJB** : java的一个框架  
-**JSF** : javaweb前端的一个框架，用来开发界面，比如在web界面添加表格组件来替代html中的<table>代码。  
+**JSF** : javaweb前端的一个框架，用来开发界面，比如在web界面添加表格组件来替代html中的`<table>`代码。  
 **RMI** : (remote method invacation 远程方法调用)一个JVM中的代码可以通过网络实现远程调用另一个JVM的某个方法   
 **JTA** :  
 **JPA** :  
@@ -16,6 +16,7 @@
 ## 引用  
 [JPA概念](https://segmentfault.com/a/1190000022465115)  
 [RMI的一个例子](https://www.liaoxuefeng.com/wiki/1252599548343744/1323711850348577)  
+[jboss+JSF+EJB+JPA的小例子](https://blog.csdn.net/frightingforambition/article/details/48781983)
 **JSF与Strusts2区别**:(超星慕课-JSF概述)  
 JSF和EJB，Web Service等javaEE紧密结合。  
 Strusts2非JAVAEE标准，适合做非复杂业务的敏捷Web框架，开发前端界面  
