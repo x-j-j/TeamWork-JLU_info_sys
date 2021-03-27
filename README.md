@@ -37,6 +37,8 @@
 [DAO层，Service层，Controller层、View层](https://blog.csdn.net/zdwzzu2006/article/details/6053006)  
 [Dao层是什么](https://www.jianshu.com/p/8c3789d56d95)  
 [优秀的代码都是如何分层的？](https://cloud.tencent.com/developer/article/1480978)  
+[JAVA-MVC模式的小例子](https://blog.csdn.net/u014203489/article/details/81282789?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_baidulandingword-5&spm=1001.2101.3001.4242)
+[设计之道－controller层的设计](https://www.jianshu.com/p/654f4589eb8e)
 [API接口------外部接口和内部接口区别](https://blog.csdn.net/loner_fang/article/details/82798975)  
 
 
