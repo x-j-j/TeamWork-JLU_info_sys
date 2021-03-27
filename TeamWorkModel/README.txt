@@ -28,4 +28,4 @@ controller层不要和dao层相连接，比如servlet直接操作数据库查询
 
 
 我们先写b/s架构，虽然用到的技术不多，但是仍然学到了Servlet, JavaBean, JSF，JPA，JNDI，Web Service和目录结构
-一个小组大家学习能力不同，稳妥起见这样最好. c/s架构和SSH框架，等有余力再学习，到时会用到其余的技术，比如EJB，RMI，JMS。以及企业中最常见的SpringMVC，Strusts2，Hibernate
+一个小组大家学习能力不同，课余时间不同，还有基础不同，稳妥起见这样最好. c/s架构和SSH框架，等有余力再学习，到时会用到其余的技术，比如EJB，RMI，JMS。以及企业中最常见的SpringMVC，Strusts2，Hibernate
