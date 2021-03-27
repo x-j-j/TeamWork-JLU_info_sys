@@ -14,7 +14,9 @@
 **JAvaMail** : 使用Java应用程序发送 E-mail   
 
 # 学习文章  
+文章不限，搞明白技术到底都是什么为标准，也可自己上网搜
 [JPA概念](https://segmentfault.com/a/1190000022465115)  
+[JPA的一个小例子](https://www.w3cschool.cn/java/jpa-entitymanager.html)
 [Java —— EJB 到底是什么](https://blog.csdn.net/qq_19865749/article/details/75648083)  
 [RMI的一个例子](https://www.liaoxuefeng.com/wiki/1252599548343744/1323711850348577)  
 [JTA规范](http://www.tianshouzhi.com/api/tutorials/distributed_transaction/385)  
